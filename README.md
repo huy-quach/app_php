@@ -1,6 +1,6 @@
 # App Languages PHP
 # App use: Vscode, HeidiSQL, Xampp 
-# localhost or http://huyquachdev.com/
+# localhost or huyquachdev.com
 # Coming Soon!
 # Languages New!
 # Table HeidiSQL:

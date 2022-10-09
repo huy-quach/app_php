@@ -1,8 +1,8 @@
 # 1:  App Languages PHP
-# 2:  App use: Vscode, HeidiSQL, Xampp 
-# 3:  localhost or huyquachdev.com
-# 4:  Languages New!
-# 5:  Table HeidiSQL:
+# 2:  App use: <i>Vscode, HeidiSQL, Xampp</i>
+# 3:  <i>localhost</i> or <i>huyquachdev.com</i>
+# 4:  <i>Languages New!</i>
+# 5:  <i>Table HeidiSQL:</i>
   #1: id <br>
   #2: username <br>
   #3: password <br>
